@@ -1,0 +1,1 @@
+paste instagram unfollow list here as it is presented in clipboard from injection script provided in "console_inject.txt"
